@@ -1,0 +1,29 @@
+{
+  "name": "oritbot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "later"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiromodibedi/fb_node_chatbot.git"
+  },
+  "keywords": [
+    "Facebook",
+    "Messenger",
+    "Chatbot"
+  ],
+  "author": "Tiro Modibedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiromodibedi/fb_node_chatbot/issues"
+  },
+  "homepage": "https://github.com/tiromodibedi/fb_node_chatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
